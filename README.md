@@ -1,1 +1,0 @@
-# RAG-With-Haystack-MistralAI-Pinecone-main1
