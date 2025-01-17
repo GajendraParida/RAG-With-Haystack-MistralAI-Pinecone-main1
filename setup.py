@@ -4,7 +4,7 @@ setup(
     name="QAsystem with haystack",
     version="0.0.1",
     author="sunny",
-    author_email="sunny.savita@ineuron.ai",
+    author_email="parida.gaja@gmail.com",
     packages=find_packages(),
     install_requires=["pinecone-haystack","haystack-ai","fastapi","uvicorn","python-dotenv","pathlib"]
 )
